@@ -1032,7 +1032,7 @@ img {
   line-height: 1.15;
   text-align: center;
 
-  color: var(--secondary-text-color);
+  color: var(--primary-text-color);
 }
 
 .form-order-input {
